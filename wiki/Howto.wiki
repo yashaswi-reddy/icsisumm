@@ -1,4 +1,5 @@
 #summary basic documentation
+#labels Featured
 
 Run the eval:
 {{{
