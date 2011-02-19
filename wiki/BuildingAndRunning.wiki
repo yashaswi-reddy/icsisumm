@@ -19,6 +19,8 @@ You need a 2 series python, at least 2.6 (it does not work with python 3).
 
 You also need subversion and usual build tools (build-essential in ubuntu).
 
+For performing ROUGE scoring, you need the XML::DOM perl extension.
+
 The system has been shown to work on linux. It should be possible to get it to work on MacOSX and Windows (under Cygwin).
 
 = Grabbing the code =
