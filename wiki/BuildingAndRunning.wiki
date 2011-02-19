@@ -44,6 +44,17 @@ Rebuild those dependences (archives are provided):
   * libxml can be downloaded at http://xmlsoft.org/
   * XML::Parser http://search.cpan.org/dist/XML-Parser/
 
+{{{
+tar zxf libxml-enno-1.02.tar.gz 
+cd libxml-enno-1.02
+perl Makefile.PL 
+cd ..
+tar zxf XML-Parser-2.36.tar.gz 
+cd XML-Parser-2.36
+perl Makefile.PL 
+cd ..
+}}}
+
 Get ROUGE 1.5.5 at http://berouge.com/contactus.aspx, then extract and patch it:
 
 {{{
