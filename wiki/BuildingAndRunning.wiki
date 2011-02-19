@@ -26,7 +26,7 @@ The system has been shown to work on linux. It should be possible to get it to w
 = Grabbing the code =
 
 {{{
-svn checkout http://icsisumm.googlecode.com/svn/trunk/ icsisumm
+svn checkout http://icsisumm.googlecode.com/svn/tags/tac09-sys34 icsisumm
 cd icsisumm/icsisumm-primary-sys34_v1
 }}}
 
